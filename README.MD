@@ -1,4 +1,4 @@
-# This is to fullfill the requirements for CMSE 353 Security of Systems couse at EMU
+# This is to fullfill the requirements for CMSE 353 Security of Systems course at EMU
 
 #### Project Team: 
 |Software Engineer | 
