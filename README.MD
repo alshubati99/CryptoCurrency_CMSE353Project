@@ -3,7 +3,7 @@
 #### Project Team: 
 |Software Engineer | 
 |---|
-| 1.  [Roa'a Alqaisi](https://github.com/)   | 
-| 2.  [Muhammad Murrah](https://github.com/)     |   
-| 3.  [Dalal Tantoosh](https://github.com/)    |  
+| 1.  [Roa'a Alqaisi]   | 
+| 2.  [Muhammad Murrah]     |   
+| 3.  [Dalal Tantoosh]    |  
 | 4.  [Khawlah Alshubati](https://github.com/alshubati99)|  
