@@ -5,5 +5,5 @@
 |---|
 | 1.  [Roa'a Alqaisi]   | 
 | 2.  [Muhammad Murrah]     |   
-| 3.  [Dalal Tantoosh]    |  
+| 3.  [Dalal Totah]    |  
 | 4.  [Khawlah Alshubati](https://github.com/alshubati99)|  
